@@ -1,0 +1,55 @@
+
+
+.test{
+    background: red;
+}
+
+.monTableau{
+    height: 85vh;
+}
+
+.square{
+    position: relative;
+    border: 1px solid black;
+    width: 10%;
+    height: 100%;
+    margin: 0;
+    background: white;
+}
+
+.myCell{
+    border: 1px solid #333;
+    width: 40px;
+}
+
+.myTable{
+    border: 1px solid #333;
+}
+.myTable td{
+    border: 1px solid #333;
+    min-width: 40px;
+    background: white;
+    text-align : center;
+}
+
+.myTable tr{
+    height: 40px;
+}
+.myCell:hover{
+    background: cornflowerblue;
+}
+
+.info{
+    background: darkcyan !important;
+}
+
+.block{
+    background: #333333 !important;
+}
+
+.borderBot{
+    border-bottom: 2px solid black !important;
+}
+.borderRight{
+    border-right: 2px solid black !important;
+}
